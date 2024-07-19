@@ -50,6 +50,14 @@ name {
     color: #1772d0;
 }
 
+#remark-list{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-style: italic;
+    color: #A52A2A;
+}
+
 #institution-list{
     color: #4a4a4a;
     margin-bottom: 10px;
